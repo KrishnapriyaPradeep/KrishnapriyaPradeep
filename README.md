@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @KrishnapriyaPradeep
+- 👀 I’m interested in Programming...
+- 🌱 I’m currently learning B. Tech in Computer Science with Cyber Security...
+- 📫 How to reach me Instagram:@krix ...
+
+<!---
+KrishnapriyaPradeep/KrishnapriyaPradeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
